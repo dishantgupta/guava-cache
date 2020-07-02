@@ -21,7 +21,7 @@
         <commons.collections4.version>4.1</commons.collections4.version>
         <sprinfox.swagger2.version>2.9.2</sprinfox.swagger2.version>
         <springfox.swagger.ui.version>2.9.2</springfox.swagger.ui.version>
-        <mysql.connector.java>5.1.46</mysql.connector.java>
+        <mysql.connector.java>8.0.16</mysql.connector.java>
         <hibernate.jpa.api.version>1.0.2.Final</hibernate.jpa.api.version>
         <jackson.databind.version>2.9.7</jackson.databind.version>
     </properties>
